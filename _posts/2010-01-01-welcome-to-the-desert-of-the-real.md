@@ -6,9 +6,9 @@ subtitle: I don't know what to write here.
 description: >-
   Neither Do I know what to write here.
 image: >-
-https://anisabek.files.wordpress.com/2019/07/cropped-1009950_589975854410163_411184172_n-2.jpg
+  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
 optimized_image: >-
-https://anisabek.files.wordpress.com/2019/07//c_scale,w_380/cropped-1009950_589975854410163_411184172_n-2.jpg
+  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
 category: blog
 tags:
   - welcome
